@@ -23,11 +23,11 @@ NavMeshProjectSettings:
     cost: 1
   - name: STREET
     cost: 1
-  - name: 
+  - name: SKATEBOARD
     cost: 1
-  - name: 
+  - name: BIKE
     cost: 1
-  - name: 
+  - name: SCOOTER
     cost: 1
   - name: 
     cost: 1
